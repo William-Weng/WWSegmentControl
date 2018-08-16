@@ -1,0 +1,11 @@
+framework module WWSegmentControl {
+  umbrella header "WWSegmentControl.h"
+
+  export *
+  module * { export * }
+}
+
+module WWSegmentControl.Swift {
+    header "WWSegmentControl-Swift.h"
+    requires objc
+}
