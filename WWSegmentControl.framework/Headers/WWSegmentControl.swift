@@ -5,12 +5,6 @@
 //  Created by William-Weng on 2018/8/14.
 //  Copyright © 2018年 William-Weng. All rights reserved.
 //
-/// [快速入門指南：使用 UIViewPropertyAnimator 做動畫](https://swift.gg/2017/04/20/quick-guide-animations-with-uiviewpropertyanimator/)
-/// [iOS – 通過Swift Framework發開製作可重複利用的 View](https://www.jianshu.com/p/5f1a008d45bc)
-/// [Swift構建通用版本Framework以及Framework的使用及其注意事項](https://www.jianshu.com/p/13ee670f21ac)
-/// [delegateをweakで宣言する際にprotocolにclassを継承する理由](https://qiita.com/yimajo/items/892bd2fe1ccb808ffe49)
-/// [Swift製作Framework，提供給OC項目和Swift項目通用](https://www.jianshu.com/p/1ad5bede88bd)
-/// [iOS開發之Framework上傳到Cocoapods看我應該夠了！](https://www.jianshu.com/p/a181b47f8881)
 
 import UIKit
 

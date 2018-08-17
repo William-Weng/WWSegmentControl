@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WWSegmentControl"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "WWSegmentControl is a SegmentControl+."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   # s.description  = "WWSegmentControl is a SegmentControl+."
 
-  s.homepage     = "https://github.com/William-Weng"
+  s.homepage     = "https://github.com/William-Weng/WWSegmentControl"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -54,7 +54,7 @@ Pod::Spec.new do |s|
   s.author             = { "翁禹斌(William.Weng)" => "linuxice0609@gmail.com" }
   # Or just: s.author    = "翁禹斌(William.Weng)"
   # s.authors            = { "翁禹斌(William.Weng)" => "linuxice0609@gmail.com" }
-  # s.social_media_url   = "http://twitter.com/翁禹斌(William.Weng)"
+  # s.social_media_url   = "https://github.com/William-Weng/"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -90,8 +90,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  # s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
