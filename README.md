@@ -9,8 +9,7 @@
 ![IBOutlet](./IBOutlet.png)
 
 
-
-```
+```swift
 import UIKit
 import WWSegmentControl
 
