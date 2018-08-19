@@ -3,9 +3,14 @@
 
 ![一個自訂的SegmentControl (上傳至Cocoapods)](https://raw.githubusercontent.com/William-Weng/Swift-4/master/_Gif_/WWSegmentControl.gif)
 
-# 使用範例![IBOutlet](/Users/william-weng/Desktop/WWSegmentControl/IBOutlet.png)
 
-```swift
+
+# 使用範例
+![IBOutlet](./IBOutlet.png)
+
+
+
+```
 import UIKit
 import WWSegmentControl
 
