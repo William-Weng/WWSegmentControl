@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "WWSegmentControl"
   s.version      = "0.0.4"
-  s.summary      = "WWSegmentControl is a like UISegmentedControl's view with jelly animation."
+  s.summary      = "WWSegmentControl is a like UISegmentedControl's view with jelly animation. (一個自訂有QQ動畫的SegmentControl)"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
