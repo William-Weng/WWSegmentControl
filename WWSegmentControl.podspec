@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         				= "WWSegmentControl"
-  s.version      				= "0.1.0"
+  s.version      				= "0.2.0"
   s.summary      				= "WWSegmentControl is a like UISegmentedControl's view with jelly animation. (一個自訂有QQ動畫的SegmentControl)"
   s.homepage     				= "https://github.com/William-Weng/WWSegmentControl"
   s.license      				= { :type => "MIT", :file => "LICENSE" }
