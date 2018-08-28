@@ -8,12 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for WWSegmentControl.
 FOUNDATION_EXPORT double WWSegmentControlVersionNumber;
-
-//! Project version string for WWSegmentControl.
 FOUNDATION_EXPORT const unsigned char WWSegmentControlVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <WWSegmentControl/PublicHeader.h>
-
 
